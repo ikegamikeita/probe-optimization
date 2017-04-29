@@ -1,0 +1,453 @@
+K00134	hsa	hsa:2597	GAPDH, gapA, glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K00134	mmu	mmu:14433	GAPDH, gapA, glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K00134	mmu	mmu:100042025	GAPDH, gapA, glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K00134	bfo	bfo:BRAFLDRAFT_124511	GAPDH, gapA, glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K00134	cin	cin:100186457	GAPDH, gapA, glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K00134	spu	spu:578260	GAPDH, gapA, glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K00134	sko	sko:100370055	GAPDH, gapA, glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K00760	hsa	hsa:3251	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	mmu	mmu:15452	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	bfo	bfo:BRAFLDRAFT_125430	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	bfo	bfo:BRAFLDRAFT_116213	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	spu	spu:584371	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	sko	sko:102800729	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	hsa	hsa:3251	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	mmu	mmu:15452	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	bfo	bfo:BRAFLDRAFT_125430	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	bfo	bfo:BRAFLDRAFT_116213	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	spu	spu:584371	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00760	sko	sko:102800729	hprT, hpt, HPRT1, hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00927	hsa	hsa:5232	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+K00927	hsa	hsa:5230	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+K00927	mmu	mmu:18655	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+K00927	mmu	mmu:18663	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+K00927	bfo	bfo:BRAFLDRAFT_113516	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+K00927	cin	cin:100182231	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+K00927	spu	spu:100890751	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+K00927	sko	sko:100379021	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+K01195	hsa	hsa:2990	uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
+K01195	mmu	mmu:110006	uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
+K01195	bfo	bfo:BRAFLDRAFT_59392	uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
+K01195	spu	spu:575689	uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
+K01195	spu	spu:752070	uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
+K01195	sko	sko:100376732	uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
+K01749	hsa	hsa:3145	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]
+K01749	mmu	mmu:15288	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]
+K01749	bfo	bfo:BRAFLDRAFT_280323	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]
+K01749	cin	cin:100175647	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]
+K01749	spu	spu:575537	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]
+K01749	sko	sko:102803671	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]
+K02126	hsa	hsa:4508	ATPeF0A, MTATP6, ATP6; F-type H+-transporting ATPase subunit a
+K02126	mmu	mmu:17705	ATPeF0A, MTATP6, ATP6; F-type H+-transporting ATPase subunit a
+K02126	bfo	bfo:ATP6	ATPeF0A, MTATP6, ATP6; F-type H+-transporting ATPase subunit a
+K02126	cin	cin:806117	ATPeF0A, MTATP6, ATP6; F-type H+-transporting ATPase subunit a
+K02126	spu	spu:2652722	ATPeF0A, MTATP6, ATP6; F-type H+-transporting ATPase subunit a
+K02126	sko	sko:3703604	ATPeF0A, MTATP6, ATP6; F-type H+-transporting ATPase subunit a
+K02884	hsa	hsa:9801	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+K02884	mmu	mmu:56284	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+K02884	bfo	bfo:BRAFLDRAFT_216314	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+K02884	cin	cin:100182580	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+K02884	spu	spu:589881	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+K02884	sko	sko:100372869	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+K02907	hsa	hsa:51263	RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30
+K02907	mmu	mmu:107734	RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30
+K02907	bfo	bfo:BRAFLDRAFT_117232	RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30
+K02907	cin	cin:100175065	RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30
+K02907	spu	spu:594557	RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30
+K02907	sko	sko:102809496	RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30
+K02908	hsa	hsa:6156	RP-L30e, RPL30, large subunit ribosomal protein L30e
+K02908	mmu	mmu:19946	RP-L30e, RPL30, large subunit ribosomal protein L30e
+K02908	bfo	bfo:BRAFLDRAFT_259607	RP-L30e, RPL30, large subunit ribosomal protein L30e
+K02908	spu	spu:577852	RP-L30e, RPL30, large subunit ribosomal protein L30e
+K02908	sko	sko:100366395	RP-L30e, RPL30, large subunit ribosomal protein L30e
+K02921	hsa	hsa:6168	RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae
+K02921	mmu	mmu:19981	RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae
+K02921	bfo	bfo:BRAFLDRAFT_280618	RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae
+K02921	cin	cin:100177458	RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae
+K02921	spu	spu:584560	RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae
+K02921	sko	sko:100370098	RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae
+K02941	hsa	hsa:6175	RP-LP0, RPLP0; large subunit ribosomal protein LP0
+K02941	mmu	mmu:11837	RP-LP0, RPLP0; large subunit ribosomal protein LP0
+K02941	bfo	bfo:BRAFLDRAFT_97880	RP-LP0, RPLP0; large subunit ribosomal protein LP0
+K02941	cin	cin:100180640	RP-LP0, RPLP0; large subunit ribosomal protein LP0
+K02941	spu	spu:589287	RP-LP0, RPLP0; large subunit ribosomal protein LP0
+K02941	spu	spu:100888621	RP-LP0, RPLP0; large subunit ribosomal protein LP0
+K02941	sko	sko:100376620	RP-LP0, RPLP0; large subunit ribosomal protein LP0
+K02962	hsa	hsa:6218	RP-S17e, RPS17; small subunit ribosomal protein S17e
+K02962	mmu	mmu:20068	RP-S17e, RPS17; small subunit ribosomal protein S17e
+K02962	spu	spu:577738	RP-S17e, RPS17; small subunit ribosomal protein S17e
+K02962	sko	sko:100371340	RP-S17e, RPS17; small subunit ribosomal protein S17e
+K02997	hsa	hsa:6203	RP-S9e, RPS9, small subunit ribosomal protein S9e
+K02997	mmu	mmu:76846	RP-S9e, RPS9, small subunit ribosomal protein S9e
+K02997	bfo	bfo:BRAFLDRAFT_126921	RP-S9e, RPS9, small subunit ribosomal protein S9e
+K02997	cin	cin:100184857	RP-S9e, RPS9, small subunit ribosomal protein S9e
+K02997	spu	spu:586110	RP-S9e, RPS9, small subunit ribosomal protein S9e
+K02997	sko	sko:100371384	RP-S9e, RPS9, small subunit ribosomal protein S9e
+K03006	hsa	hsa:5430	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03006	mmu	mmu:20020	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03006	bfo	bfo:BRAFLDRAFT_120136	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03006	cin	cin:100177272	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03006	spu	spu:583794	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03006	sko	sko:102801332	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03006	sko	sko:100373197	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03006	sko	sko:100372686	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03006	sko	sko:102804687	RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K03063	hsa	hsa:5704	PSMC4, RPT3; 26S proteasome regulatory subunit T3
+K03063	mmu	mmu:23996	PSMC4, RPT3; 26S proteasome regulatory subunit T3
+K03063	bfo	bfo:BRAFLDRAFT_115078	PSMC4, RPT3; 26S proteasome regulatory subunit T3
+K03063	cin	cin:100184190	PSMC4, RPT3; 26S proteasome regulatory subunit T3
+K03063	spu	spu:581800	PSMC4, RPT3; 26S proteasome regulatory subunit T3
+K03063	sko	sko:100367717	PSMC4, RPT3; 26S proteasome regulatory subunit T3
+K03108	hsa	hsa:6731	signal recognition particle subunit SRP72
+K03108	mmu	mmu:66661	signal recognition particle subunit SRP72
+K03108	bfo	bfo:BRAFLDRAFT_115079	signal recognition particle subunit SRP72
+K03108	cin	cin:100182362	signal recognition particle subunit SRP72
+K03108	spu	spu:592455	signal recognition particle subunit SRP72
+K03108	sko	sko:100367514	signal recognition particle subunit SRP72
+K03120	hsa	hsa:387332	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	hsa	hsa:9519	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	hsa	hsa:6908	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	mmu	mmu:21374	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	mmu	mmu:237336	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	mmu	mmu:227606	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	bfo	bfo:BRAFLDRAFT_121529	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	bfo	bfo:BRAFLDRAFT_284100	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	cin	cin:100177214	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	cin	cin:100186355	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	spu	spu:373479	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	spu	spu:590701	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	spu	spu:594185	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03120	sko	sko:100369885	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
+K03231	hsa	hsa:1915	EEF1A, elongation factor 1-alpha
+K03231	hsa	hsa:1917	EEF1A, elongation factor 1-alpha
+K03231	mmu	mmu:13628	EEF1A, elongation factor 1-alpha
+K03231	mmu	mmu:13627	EEF1A, elongation factor 1-alpha
+K03231	bfo	bfo:BRAFLDRAFT_122567	EEF1A, elongation factor 1-alpha
+K03231	bfo	bfo:BRAFLDRAFT_58879	EEF1A, elongation factor 1-alpha
+K03231	bfo	bfo:BRAFLDRAFT_110563	EEF1A, elongation factor 1-alpha
+K03231	bfo	bfo:BRAFLDRAFT_115591	EEF1A, elongation factor 1-alpha
+K03231	bfo	bfo:BRAFLDRAFT_95550	EEF1A, elongation factor 1-alpha
+K03231	bfo	bfo:BRAFLDRAFT_127644	EEF1A, elongation factor 1-alpha
+K03231	bfo	bfo:BRAFLDRAFT_230184	EEF1A, elongation factor 1-alpha
+K03231	bfo	bfo:BRAFLDRAFT_113805	EEF1A, elongation factor 1-alpha
+K03231	cin	cin:100179043	EEF1A, elongation factor 1-alpha
+K03231	cin	cin:100181775	EEF1A, elongation factor 1-alpha
+K03231	spu	spu:548620	EEF1A, elongation factor 1-alpha
+K03231	sko	sko:100303511	EEF1A, elongation factor 1-alpha
+K03234	hsa	hsa:1938	EEF2, elongation factor 2
+K03234	mmu	mmu:13629	EEF2, elongation factor 2
+K03234	bfo	bfo:BRAFLDRAFT_128665	EEF2, elongation factor 2
+K03234	bfo	bfo:BRAFLDRAFT_225362	EEF2, elongation factor 2
+K03234	cin	cin:100177993	EEF2, elongation factor 2
+K03234	spu	spu:592801	EEF2, elongation factor 2
+K03234	sko	sko:100370370	EEF2, elongation factor 2
+K03239	hsa	hsa:1967	EIF2B1; translation initiation factor eIF-2B subunit alpha
+K03239	mmu	mmu:209354	EIF2B1; translation initiation factor eIF-2B subunit alpha
+K03239	bfo	bfo:BRAFLDRAFT_114409	EIF2B1; translation initiation factor eIF-2B subunit alpha
+K03239	bfo	bfo:BRAFLDRAFT_121823	EIF2B1; translation initiation factor eIF-2B subunit alpha
+K03239	cin	cin:101243211	EIF2B1; translation initiation factor eIF-2B subunit alpha
+K03239	spu	spu:578099	EIF2B1; translation initiation factor eIF-2B subunit alpha
+K03239	sko	sko:100375693	EIF2B1; translation initiation factor eIF-2B subunit alpha
+K03538	hsa	hsa:10775	POP4, RPP29; ribonuclease P protein subunit POP4 [EC:3.1.26.5]
+K03538	mmu	mmu:66161	POP4, RPP29; ribonuclease P protein subunit POP4 [EC:3.1.26.5]
+K03538	bfo	bfo:BRAFLDRAFT_278921	POP4, RPP29; ribonuclease P protein subunit POP4 [EC:3.1.26.5]
+K03538	spu	spu:579025	POP4, RPP29; ribonuclease P protein subunit POP4 [EC:3.1.26.5]
+K03538	sko	sko:100374685	POP4, RPP29; ribonuclease P protein subunit POP4 [EC:3.1.26.5]
+K04402	hsa	hsa:1647	GADD45, growth arrest and DNA-damage-inducible protein
+K04402	hsa	hsa:4616	GADD45, growth arrest and DNA-damage-inducible protein
+K04402	hsa	hsa:10912	GADD45, growth arrest and DNA-damage-inducible protein
+K04402	mmu	mmu:13197	GADD45, growth arrest and DNA-damage-inducible protein
+K04402	mmu	mmu:17873	GADD45, growth arrest and DNA-damage-inducible protein
+K04402	mmu	mmu:23882	GADD45, growth arrest and DNA-damage-inducible protein
+K04402	spu	spu:100893493	GADD45, growth arrest and DNA-damage-inducible protein
+K04402	sko	sko:100303593	GADD45, growth arrest and DNA-damage-inducible protein
+K05692	hsa	hsa:60	actin beta/gamma 1
+K05692	hsa	hsa:71	actin beta/gamma 1
+K05692	mmu	mmu:11461	actin beta/gamma 1
+K05692	mmu	mmu:11465	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_56687	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_88989	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_114535	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_126062	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_126063	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_90899	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_126060	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_58093	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_117851	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_114958	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_86184	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_86185	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_201011	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_115291	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_125401	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_90895	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_90897	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_124495	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_88990	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_127483	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_79607	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_116948	actin beta/gamma 1
+K05692	bfo	bfo:BRAFLDRAFT_220808	actin beta/gamma 1
+K05692	cin	cin:445684	actin beta/gamma 1
+K05692	cin	cin:100180835	actin beta/gamma 1
+K05692	cin	cin:100178468	actin beta/gamma 1
+K05692	cin	cin:100181800	actin beta/gamma 1
+K05692	cin	cin:100183894	actin beta/gamma 1
+K05692	cin	cin:100185562	actin beta/gamma 1
+K05692	spu	spu:593068	actin beta/gamma 1
+K05692	spu	spu:581650	actin beta/gamma 1
+K05692	spu	spu:581500	actin beta/gamma 1
+K05692	spu	spu:592846	actin beta/gamma 1
+K05692	spu	spu:373192	actin beta/gamma 1
+K05692	spu	spu:373190	actin beta/gamma 1
+K05692	spu	spu:373297	actin beta/gamma 1
+K05692	spu	spu:752782	actin beta/gamma 1
+K05692	spu	spu:373296	actin beta/gamma 1
+K05692	spu	spu:100890099	actin beta/gamma 1
+K05692	spu	spu:592912	actin beta/gamma 1
+K05692	spu	spu:373298	actin beta/gamma 1
+K05692	sko	sko:102800667	actin beta/gamma 1
+K05692	sko	sko:100303601	actin beta/gamma 1
+K05692	sko	sko:100303600	actin beta/gamma 1
+K05692	sko	sko:100370090	actin beta/gamma 1
+K05692	sko	sko:100378690	actin beta/gamma 1
+K05692	sko	sko:102803182	actin beta/gamma 1
+K05692	sko	sko:100377057	actin beta/gamma 1
+K05692	sko	sko:102803405	actin beta/gamma 1
+K06619	hsa	hsa:25	ABL1, abelson tyrosine-protein kinase 1 [EC:2.7.10.2]
+K06619	mmu	mmu:11350	ABL1, abelson tyrosine-protein kinase 1 [EC:2.7.10.2]
+K06619	cin	cin:100180374	ABL1, abelson tyrosine-protein kinase 1 [EC:2.7.10.2]
+K06619	spu	spu:373187	ABL1, abelson tyrosine-protein kinase 1 [EC:2.7.10.2]
+K06619	sko	sko:100374571	ABL1, abelson tyrosine-protein kinase 1 [EC:2.7.10.2]
+K06624	hsa	hsa:1027	CDKN1B, P27, KIP1; cyclin-dependent kinase inhibitor 1B
+K06624	mmu	mmu:12576	CDKN1B, P27, KIP1; cyclin-dependent kinase inhibitor 1B
+K06624	bfo	bfo:BRAFLDRAFT_120626	CDKN1B, P27, KIP1; cyclin-dependent kinase inhibitor 1B
+K07375	hsa	hsa:84617	TUBB, tubulin beta
+K07375	hsa	hsa:203068	TUBB, tubulin beta
+K07375	hsa	hsa:81027	TUBB, tubulin beta
+K07375	hsa	hsa:7280	TUBB, tubulin beta
+K07375	hsa	hsa:10381	TUBB, tubulin beta
+K07375	hsa	hsa:10382	TUBB, tubulin beta
+K07375	hsa	hsa:347688	TUBB, tubulin beta
+K07375	hsa	hsa:347733	TUBB, tubulin beta
+K07375	hsa	hsa:10383	TUBB, tubulin beta
+K07375	mmu	mmu:227613	TUBB, tubulin beta
+K07375	mmu	mmu:22151	TUBB, tubulin beta
+K07375	mmu	mmu:22152	TUBB, tubulin beta
+K07375	mmu	mmu:22153	TUBB, tubulin beta
+K07375	mmu	mmu:67951	TUBB, tubulin beta
+K07375	mmu	mmu:22154	TUBB, tubulin beta
+K07375	mmu	mmu:545486	TUBB, tubulin beta
+K07375	mmu	mmu:73710	TUBB, tubulin beta
+K07375	bfo	bfo:BRAFLDRAFT_124235	TUBB, tubulin beta
+K07375	bfo	bfo:BRAFLDRAFT_60807	TUBB, tubulin beta
+K07375	bfo	bfo:BRAFLDRAFT_120207	TUBB, tubulin beta
+K07375	bfo	bfo:BRAFLDRAFT_120208	TUBB, tubulin beta
+K07375	cin	cin:100184511	TUBB, tubulin beta
+K07375	cin	cin:101242512	TUBB, tubulin beta
+K07375	spu	spu:586940	TUBB, tubulin beta
+K07375	spu	spu:593362	TUBB, tubulin beta
+K07375	spu	spu:576571	TUBB, tubulin beta
+K07375	spu	spu:587631	TUBB, tubulin beta
+K07375	spu	spu:594405	TUBB, tubulin beta
+K07375	spu	spu:594413	TUBB, tubulin beta
+K07375	spu	spu:755967	TUBB, tubulin beta
+K07375	spu	spu:584883	TUBB, tubulin beta
+K07375	spu	spu:373275	TUBB, tubulin beta
+K07375	sko	sko:100377572	TUBB, tubulin beta
+K07375	sko	sko:100366486	TUBB, tubulin beta
+K07375	sko	sko:100378447	TUBB, tubulin beta
+K07375	sko	sko:100378745	TUBB, tubulin beta
+K07375	sko	sko:100378890	TUBB, tubulin beta
+K07375	sko	sko:100378597	TUBB, tubulin beta
+K07375	sko	sko:100378826	TUBB, tubulin beta
+K07375	sko	sko:102809672	TUBB, tubulin beta
+K07375	sko	sko:100374551	TUBB, tubulin beta
+K07375	sko	sko:100367715	TUBB, tubulin beta
+K07375	sko	sko:100372499	TUBB, tubulin beta
+K07375	sko	sko:100366884	TUBB, tubulin beta
+K08770	hsa	hsa:7316	UBC; ubiquitin C
+K08770	mmu	mmu:22190	UBC; ubiquitin C
+K08770	bfo	bfo:BRAFLDRAFT_131116	UBC; ubiquitin C
+K08770	bfo	bfo:BRAFLDRAFT_113894	UBC; ubiquitin C
+K08770	cin	cin:100175058	UBC; ubiquitin C
+K08770	sko	sko:102805691	UBC; ubiquitin C
+K08770	sko	sko:100375671	UBC; ubiquitin C
+K08770	sko	sko:102808209	UBC; ubiquitin C
+K08773	hsa	hsa:10928	RALBP1, RalA-binding protein 1
+K08773	mmu	mmu:19765	RALBP1, RalA-binding protein 1
+K08773	bfo	bfo:BRAFLDRAFT_80737	RALBP1, RalA-binding protein 1
+K08773	cin	cin:100180301	RALBP1, RalA-binding protein 1
+K08773	spu	spu:580072	RALBP1, RalA-binding protein 1
+K08773	sko	sko:100377036	RALBP1, RalA-binding protein 1
+K09428	hsa	hsa:1997	ELF1_2_4; E74-like factor 1/2/4
+K09428	hsa	hsa:2000	ELF1_2_4; E74-like factor 1/2/4
+K09428	hsa	hsa:1998	ELF1_2_4; E74-like factor 1/2/4
+K09428	mmu	mmu:13709	ELF1_2_4; E74-like factor 1/2/4
+K09428	mmu	mmu:56501	ELF1_2_4; E74-like factor 1/2/4
+K09428	mmu	mmu:69257	ELF1_2_4; E74-like factor 1/2/4
+K09428	bfo	bfo:BRAFLDRAFT_92543	ELF1_2_4; E74-like factor 1/2/4
+K09428	cin	cin:100101818	ELF1_2_4; E74-like factor 1/2/4
+K09428	sko	sko:102806263	ELF1_2_4; E74-like factor 1/2/4
+K11253	hsa	hsa:440093	H3, histone H3
+K11253	hsa	hsa:3021	H3, histone H3
+K11253	hsa	hsa:8351	H3, histone H3
+K11253	hsa	hsa:8352	H3, histone H3
+K11253	hsa	hsa:8350	H3, histone H3
+K11253	hsa	hsa:3020	H3, histone H3
+K11253	hsa	hsa:8290	H3, histone H3
+K11253	hsa	hsa:126961	H3, histone H3
+K11253	hsa	hsa:333932	H3, histone H3
+K11253	hsa	hsa:653604	H3, histone H3
+K11253	hsa	hsa:8353	H3, histone H3
+K11253	hsa	hsa:8354	H3, histone H3
+K11253	hsa	hsa:8355	H3, histone H3
+K11253	hsa	hsa:8356	H3, histone H3
+K11253	hsa	hsa:8357	H3, histone H3
+K11253	hsa	hsa:8358	H3, histone H3
+K11253	hsa	hsa:8968	H3, histone H3
+K11253	mmu	mmu:15078	H3, histone H3
+K11253	mmu	mmu:15081	H3, histone H3
+K11253	mmu	mmu:625328	H3, histone H3
+K11253	mmu	mmu:667250	H3, histone H3
+K11253	mmu	mmu:319152	H3, histone H3
+K11253	mmu	mmu:15077	H3, histone H3
+K11253	mmu	mmu:260423	H3, histone H3
+K11253	mmu	mmu:319148	H3, histone H3
+K11253	mmu	mmu:319149	H3, histone H3
+K11253	mmu	mmu:319150	H3, histone H3
+K11253	mmu	mmu:319151	H3, histone H3
+K11253	mmu	mmu:319153	H3, histone H3
+K11253	mmu	mmu:319154	H3, histone H3
+K11253	mmu	mmu:360198	H3, histone H3
+K11253	mmu	mmu:97114	H3, histone H3
+K11253	mmu	mmu:97908	H3, histone H3
+K11253	mmu	mmu:544973	H3, histone H3
+K11253	mmu	mmu:626150	H3, histone H3
+K11253	mmu	mmu:382523	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_117519	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_67487	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_129781	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_120760	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_200666	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_56969	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_64800	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_64812	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_56975	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_56970	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_64865	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_59686	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_64784	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_191397	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_75126	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_125364	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_128327	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_97692	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_62634	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_108838	H3, histone H3
+K11253	bfo	bfo:BRAFLDRAFT_62637	H3, histone H3
+K11253	cin	cin:100183235	H3, histone H3
+K11253	cin	cin:100183198	H3, histone H3
+K11253	cin	cin:100175370	H3, histone H3
+K11253	cin	cin:100186757	H3, histone H3
+K11253	spu	spu:586530	H3, histone H3
+K11253	spu	spu:594373	H3, histone H3
+K11253	spu	spu:586375	H3, histone H3
+K11253	spu	spu:577682	H3, histone H3
+K11253	spu	spu:581030	H3, histone H3
+K11253	spu	spu:582332	H3, histone H3
+K11253	spu	spu:590106	H3, histone H3
+K11253	spu	spu:754126	H3, histone H3
+K11253	spu	spu:373340	H3, histone H3
+K11253	spu	spu:373335	H3, histone H3
+K11253	spu	spu:579293	H3, histone H3
+K11253	spu	spu:583575	H3, histone H3
+K11253	spu	spu:105440217	H3, histone H3
+K11253	sko	sko:100376831	H3, histone H3
+K11253	sko	sko:100370523	H3, histone H3
+K11253	sko	sko:100369060	H3, histone H3
+K11253	sko	sko:100376126	H3, histone H3
+K11253	sko	sko:100377039	H3, histone H3
+K11253	sko	sko:100376888	H3, histone H3
+K11253	sko	sko:100372430	H3, histone H3
+K11253	sko	sko:100369658	H3, histone H3
+K11253	sko	sko:100370400	H3, histone H3
+K11253	sko	sko:100374971	H3, histone H3
+K11253	sko	sko:100370429	H3, histone H3
+K11253	sko	sko:100369759	H3, histone H3
+K11253	sko	sko:100370544	H3, histone H3
+K11253	sko	sko:100374456	H3, histone H3
+K11253	sko	sko:100366593	H3, histone H3
+K11253	sko	sko:100376680	H3, histone H3
+K11253	sko	sko:102804465	H3, histone H3
+K11253	sko	sko:100374139	H3, histone H3
+K11253	sko	sko:100368937	H3, histone H3
+K11253	sko	sko:100374561	H3, histone H3
+K11253	sko	sko:100369376	H3, histone H3
+K11253	sko	sko:100378216	H3, histone H3
+K11253	sko	sko:100372209	H3, histone H3
+K11253	sko	sko:100378008	H3, histone H3
+K11253	sko	sko:100372561	H3, histone H3
+K11253	sko	sko:100376530	H3, histone H3
+K11253	sko	sko:100370184	H3, histone H3
+K11253	sko	sko:100370926	H3, histone H3
+K11253	sko	sko:100366513	H3, histone H3
+K11253	sko	sko:100369498	H3, histone H3
+K11253	sko	sko:100370033	H3, histone H3
+K11405	hsa	hsa:55869	histone deacetylase 8 [EC:3.5.1.98]
+K11405	mmu	mmu:70315	histone deacetylase 8 [EC:3.5.1.98]
+K11405	bfo	bfo:BRAFLDRAFT_279349	histone deacetylase 8 [EC:3.5.1.98]
+K11405	cin	cin:100175490	histone deacetylase 8 [EC:3.5.1.98]
+K11405	spu	spu:586295	histone deacetylase 8 [EC:3.5.1.98]
+K11405	sko	sko:100373017	histone deacetylase 8 [EC:3.5.1.98]
+K11594	hsa	hsa:1654	DDX3X, bel, ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+K11594	mmu	mmu:13205	DDX3X, bel, ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+K11594	mmu	mmu:110957	DDX3X, bel, ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+K11594	bfo	bfo:BRAFLDRAFT_209728	DDX3X, bel, ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+K11594	cin	cin:100179057	DDX3X, bel, ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+K11594	sko	sko:100369346	DDX3X, bel, ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+K12617	hsa	hsa:219988	DNA topoisomerase 2-associated protein PAT1
+K12617	mmu	mmu:225929	DNA topoisomerase 2-associated protein PAT1
+K12617	bfo	bfo:BRAFLDRAFT_119484	DNA topoisomerase 2-associated protein PAT1
+K12617	cin	cin:100175139	DNA topoisomerase 2-associated protein PAT1
+K12617	sko	sko:100376727	DNA topoisomerase 2-associated protein PAT1
+K14323	hsa	hsa:22794	CASC3, MLN51; protein CASC3
+K14323	mmu	mmu:192160	CASC3, MLN51; protein CASC3
+K14323	bfo	bfo:BRAFLDRAFT_120980	CASC3, MLN51; protein CASC3
+K14323	cin	cin:100178281	CASC3, MLN51; protein CASC3
+K14323	sko	sko:100366859	CASC3, MLN51; protein CASC3
+K14843	hsa	hsa:23481	PES1, NOP7; pescadillo
+K14843	mmu	mmu:64934	PES1, NOP7; pescadillo
+K14843	bfo	bfo:BRAFLDRAFT_123862	PES1, NOP7; pescadillo
+K14843	cin	cin:100177889	PES1, NOP7; pescadillo
+K14843	spu	spu:591435	PES1, NOP7; pescadillo
+K14843	sko	sko:100376882	PES1, NOP7; pescadillo
+K16197	hsa	hsa:7534	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	hsa	hsa:7529	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	hsa	hsa:10971	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	mmu	mmu:22631	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	mmu	mmu:54401	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	mmu	mmu:22630	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_254312	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_58363	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_279214	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_61938	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_115103	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_113826	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_282521	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_114088	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_113477	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	bfo	bfo:BRAFLDRAFT_118892	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	spu	spu:575018	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	sko	sko:100373246	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	sko	sko:100373396	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	sko	sko:100373997	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K16197	sko	sko:100373095	YWHAB_Q_Z, 14-3-3 protein beta/theta/zeta
+K17943	hsa	hsa:23369	PUM; pumilio RNA-binding family
+K17943	hsa	hsa:9698	PUM; pumilio RNA-binding family
+K17943	mmu	mmu:80912	PUM; pumilio RNA-binding family
+K17943	mmu	mmu:80913	PUM; pumilio RNA-binding family
+K17943	bfo	bfo:BRAFLDRAFT_286861	PUM; pumilio RNA-binding family
+K17943	cin	cin:100186555	PUM; pumilio RNA-binding family
+K17943	spu	spu:589897	PUM; pumilio RNA-binding family
+K17943	sko	sko:100313713	PUM; pumilio RNA-binding family

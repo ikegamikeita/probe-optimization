@@ -1,0 +1,10 @@
+All from gm:	5
+
+Probes per gene model:
+probe/gm=3:	5	100 %
+
+X-hyb number:
+( gm=数はひとつでも該当するプローブがあればカウントする。したがって、gmの総和は$gmと一致しない場合がある。)
+xhyb#0:	probe=15	gm=5	100 %
+
+Missing GM...
