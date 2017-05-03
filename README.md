@@ -23,7 +23,7 @@ This is the authors' development environment.
 1. Clone the repository to your working space.
 
 		$ cd your/local
-		$ git clone git@github.com:ikegamikeita/GIT_REPO.git
+		$ git clone git@github.com:ikegamikeita/probe-optimization.git
 		$ cd GIT_REPO
 
 
@@ -57,7 +57,7 @@ This is the authors' development environment.
 1. Set the environment variable PERL5LIB.
 
 		#bash
-		$ export PERL5LIB=your/local/GIT_REPO/lib:$PERL5LIB
+		$ export PERL5LIB=your/local/probe-optimization/lib:$PERL5LIB
 
 
 1. Calculate optimized probe set. Create a new file and open it with an editor.
